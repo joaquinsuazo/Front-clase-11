@@ -1,10 +1,35 @@
 [{
-	"name": "joaquin Suazo",
-	"github": "https://github.com/joaquinsuazo",
-	"extra": "https://steamcommunity.com/profiles/76561198342682044/",
-        "img":[]
-	"juego": "guilty gear",
-        "personajes":["testament","Sol badguy","Sin Kyske"]
-        "texto": "hola! este es la primera prueba de mi pagina web"
-	
-}]
+		"name": "joaquin Suazo",
+		"github": "https://github.com/joaquinsuazo",
+		"extra": "https://steamcommunity.com/profiles/76561198342682044/",
+		"img": ["img/Testament guilty imagen.jpeg", "img/sol badguy guilty imagen.jpg", "img/sin kiske guilty imagen.jpg"],
+		"juego": "guilty gear",
+		"personajes": ["testament", "Sol badguy", "Sin Kyske"],
+		"texto": "hola! este es la primera prueba de mi pagina web"
+
+
+	},
+
+	{
+		"name": "joaquin Suazo",
+		"github": "https://github.com/joaquinsuazo",
+		"extra": "https://steamcommunity.com/profiles/76561198342682044/",
+		"img": "img/sol badguy guilty imagen.jpg",
+		"juego": "guilty gear",
+		"personajes": ["testament", "Sol badguy", "Sin Kyske"],
+		"texto": "hola! este es la primera prueba de mi pagina web"
+
+
+	},
+
+	{
+		"name": "joaquin Suazo",
+		"github": "https://github.com/joaquinsuazo",
+		"extra": "https://steamcommunity.com/profiles/76561198342682044/",
+		"img": "img/sin kiske guilty imagen.jpg",
+		"juego": "guilty gear",
+		"personajes": ["testament", "Sol badguy", "Sin Kyske"],
+		"texto": "hola! este es la primera prueba de mi pagina web"
+
+	}
+]
