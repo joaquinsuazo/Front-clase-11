@@ -1,8 +1,7 @@
 [{
 		"name": "Testament",
 		"pagina": "https://www.guiltygear.com/ggst/en/",
-		"extra": "https://steamcommunity.com/profiles/76561198342682044/",
-		"img": "img/Testament guilty imagen.jpeg",
+		"img": "https://raw.githubusercontent.com/joaquinsuazo/Front-clase-11/main/img/Testament%20guilty%20imagen.jpg",
 		"juego": "Personaje guilty gear"
 
 
@@ -10,8 +9,7 @@
 	{
 		"name": "Sol Badguy",
 		"pagina": "https://www.guiltygear.com/ggst/en/",
-		"extra": "https://steamcommunity.com/profiles/76561198342682044/",
-		"img": "img/sol badguy guilty imagen.jpg",
+		"img": "https://raw.githubusercontent.com/joaquinsuazo/Front-clase-11/main/img/sol%20badguy%20guilty%20imagen.jpg",
 		"juego": "Personaje de guilty gear"
 
 
@@ -20,8 +18,7 @@
 	{
 		"name": "Sin Kyske",
 		"pagina": "https://www.guiltygear.com/ggst/en/",
-		"extra": "https://steamcommunity.com/profiles/76561198342682044/",
-		"img": "img/sin kiske guilty imagen.jpg",
+		"img": "https://raw.githubusercontent.com/joaquinsuazo/Front-clase-11/main/img/sin%20kiske%20guilty%20imagen.jpg",
 		"juego": " Personaje de guilty gear"
 
 
